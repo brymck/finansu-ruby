@@ -1,6 +1,8 @@
-require "finansu/version"
-require "finansu/prefs"
 require "finansu/security"
 
 module FinAnSu
+  # The current version
+  VERSION = "0.0.1"
+
+
 end
